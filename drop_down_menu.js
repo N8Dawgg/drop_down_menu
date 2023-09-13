@@ -9,7 +9,7 @@ const test = ["Home","Contact"];
  * @param {number} buttonHeight 
  */
 
-const dropDownMenu = (menuTitle, buttonTextList, buttonHeight=21) => {
+const createDropDownMenu = (menuTitle, buttonTextList, buttonHeight=21) => {
     let closed = true;
     const toggleDropDown = () => {
         if (closed) {
@@ -83,4 +83,4 @@ const dropDownMenu = (menuTitle, buttonTextList, buttonHeight=21) => {
 
 
 
-document.body.append(dropDownMenu("Test", test, 21).container);
+document.body.append(createDropDownMenu("Test", test, 21).container);

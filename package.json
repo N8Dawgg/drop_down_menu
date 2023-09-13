@@ -1,0 +1,19 @@
+{
+  "name": "drop_down_menu",
+  "version": "1.0.0",
+  "description": "A simple implementation of a drop down menu in Javascript. Extremely bare bones and relatively easy to modify.",
+  "main": "drop_down_menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/N8Dawgg/drop_down_menu.git"
+  },
+  "author": "Nat Wheeler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N8Dawgg/drop_down_menu/issues"
+  },
+  "homepage": "https://github.com/N8Dawgg/drop_down_menu#readme"
+}
