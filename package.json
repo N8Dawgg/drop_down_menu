@@ -1,5 +1,5 @@
 {
-  "name": "drop_down_menu",
+  "name": "@n8dawgg/drop_down_menu",
   "version": "1.0.0",
   "description": "A simple implementation of a drop down menu in Javascript. Extremely bare bones and relatively easy to modify.",
   "main": "drop_down_menu.js",
